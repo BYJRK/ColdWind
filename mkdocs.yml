@@ -6,6 +6,9 @@ theme:
   name: material
   language: zh
 markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - toc:
       permalink: True
   - pymdownx.blocks.admonition
@@ -27,3 +30,5 @@ markdown_extensions:
 
 plugins:
   - search
+  - tags:
+      tags_file: tags.md

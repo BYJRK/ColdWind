@@ -1,4 +1,10 @@
-# DOTNET CLI 快速入门
+---
+title: DOTNET CLI 快速入门
+tags:
+    - .NET
+    - C#
+    - NuGet
+---
 
 [观看 B 站视频](https://www.bilibili.com/video/BV1xg4y1T7eu){ .md-button }
 
