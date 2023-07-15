@@ -5,6 +5,8 @@ site_author: 十月的寒流
 theme:
   name: material
   language: zh
+  custom_dir: overrides
+
 markdown_extensions:
   - admonition
   - pymdownx.details
